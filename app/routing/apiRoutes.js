@@ -21,7 +21,7 @@ module.exports = function (app) {
         var bestFriendIndex = 0;
         var minimumDifference = 40;
 
-        // Probably use another for loop to build out the lofic for comparing the Minimum difference to the new user score. 
+        // Probably use another for loop to build out the logic for comparing the Minimum difference to the new user score. 
 
         // in this for-loop, start off with a zero difference and compare the user and the ith friend scores, one set at a time
         //  whatever the difference is, add to the total difference

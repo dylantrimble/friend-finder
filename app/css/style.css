@@ -1,6 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	background-image: url(images/id_background.jpg);
+	background-image: url(id_background.jpg);
 }
 
 .site {
@@ -70,6 +70,7 @@ a {
 
 #bestFriendModal {
 	text-align: center;
+	color: black;
 }
 
 #bestFriendPhoto {
