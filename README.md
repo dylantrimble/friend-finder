@@ -1,5 +1,7 @@
 # Initial-D friend-finder
 
+![app-home-screen](app/images/friend-finder.png)
+
 ## Description
 
 *Friend Finder* implements friend matching based on the user's responses to a ten question survey. The user responds to questions with values from 1 (Strongly Disagree) to 5 (Strongly Agree). When the survey is submitted, the restults are then compared to the characters scores from the show, whome ever you matched the closest with is then displayed on the screen.
